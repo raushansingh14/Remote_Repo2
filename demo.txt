@@ -1,0 +1,37 @@
+hey
+
+
+Hey this is the new code editor nano which can also be used along with vim
+
+
+
+thats really 
+
+
+command X
+
+
+
+^X
+
+
+
+
+
+
+
+
+
+
+
+
+
+X
+
+
+
+
+
+
+
+
